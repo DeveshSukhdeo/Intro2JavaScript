@@ -1,1 +1,16 @@
-
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: skyblue;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: darkgreen;
+}
+button{
+  background-color: green;
+  color: white;
+  font-family:cursive;
+  border-radius: 10px;
+}
